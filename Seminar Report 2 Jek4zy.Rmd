@@ -1,0 +1,25 @@
+---
+title: "Seminar Report 2 Jek4zy"
+author: "Jessica Kain"
+date: "11/15/2018"
+output: html_document
+---
+
+Genome Sciences Seminar hosted by the Center for Public Health Genomics:
+Food, time and dopamine: How rewarding snacks hijack your brain
+November 7th, 2018
+
+
+Ali Deniz Güler, Ph.D.
+Assistant Professor of Biology
+University of Virginia
+
+Dr. Guler's seminar was on our personal 'body clocks' and potential factors that control it. The brain's circadian center, our internal clocks, regulates our bodies' activity, metabolism, and sleep and eating cycles. He started his presentation by discussing how the main influence on our circadian center is light. This was supported by showing a couple different experiments with mice. One of these examples showed how mice without the ability to perceive light did not shift their activity and eating schedules with time changes. Another showed how mice without exposure to the 24-hour daylight cycle experienced a different routine than those with 24-hour days. This difference suggested that the circadian center of mice would naturally have them on slightly longer days. 
+
+He furthered this knowledge by exploring the effects of dopamine on the circadian center. To do this they used two groups of mice: a control group and a group with the D1 dopamine receptor (Drd1) knocked-down in the suprachiasmatic nucleus (SCN). When their light schedules were shifted by 6 hours, the group of mice with the dopamine pathway knockdown took much longer to adjust to the time change. Additionally, restoring of Drd1 resulted in photoentrainment rates returning to normal. This indicates the ability of dopamine signaling to contribute to the circadian center. But why do we care? Understanding the controlling factors of the circadian center may shed light on ways to overcome jet lag and rotating work hours. Dr. Guler believes that this may be the first step for identifying novel drugs for alleviating the symptoms of jetlag and abnormal lifestyles. Additionally, such abnormal lifestyles can cause sleep disorders and can worsen numerous mental diseases. 
+
+Furthermore, dopamine is released into our systems when we experience pleasure, this includes rewarding activities such as eating. The relationship between dopamine and circadian centers suggests that when we engage in such activities, or eat, we are affecting our biological clocks. He also discussed how eating can have different effects on our bodies when done for pleasure vs. out of true hunger, and how specific diets can have regulatory effects on our metabolism. Dr. Guler’s lab explored this as well, running experiments on groups of mice under different diets, exercise routines, and light schedules. Here they found that while diets (high-fat vs. normal) and exercise affected body weight, mice experiencing normal light schedules and dopamine signaling also ate less, especially at night. As a result, despite a high fat diet, the mice that exhibited this normal activity and behavior did not gain weight. 
+
+Dr. Guler noted that there had been a drug that used some of this knowledge to develop a weight-loss drug, but was taken off the market because of negative mental health effects. He believes, however, that learning more about the regulation of the circadian center and its interaction with dopamine may help us identify a similar drug without symptoms of depression. 
+
+Overall, I really enjoyed this seminar and thought Dr. Guler did a really great job of engaging the audience. 
